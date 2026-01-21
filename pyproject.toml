@@ -24,7 +24,7 @@ pytest-aiohttp = "^1.1.0"
 mypy = ">=0.971,<2"
 aiounittest = "^1.4.2"
 aioresponses = "^0.7.3"
-mutmut = "^3.4.0"
+mutmut = "^2.4.3"
 
 [build-system]
 requires = ["poetry-core"]
